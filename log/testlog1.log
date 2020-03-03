@@ -1,0 +1,467 @@
+2020-02-20 01:00:53,693 [main] INFO InetBAnking - Url Opened
+2020-02-20 22:04:30,268 [main] INFO InetBAnking - Url Opened
+2020-02-20 22:07:05,255 [main] INFO InetBAnking - Url Opened
+2020-02-20 22:07:08,345 [main] INFO InetBAnking - Username and password entered
+2020-02-20 22:07:09,701 [main] INFO InetBAnking - Form submitted
+2020-02-20 22:17:46,310 [main] INFO InetBAnking - Url Opened
+2020-02-20 22:17:47,065 [main] INFO InetBAnking - Username and password entered
+2020-02-20 22:17:48,882 [main] INFO InetBAnking - Form submitted
+2020-02-20 22:17:48,900 [main] INFO InetBAnking - Test case Passed
+2020-02-20 23:21:31,892 [main] INFO InetBAnking - Url Opened
+2020-02-20 23:21:34,153 [main] INFO InetBAnking - Username and password entered
+2020-02-20 23:21:35,825 [main] INFO InetBAnking - Form submitted
+2020-02-20 23:21:35,870 [main] INFO InetBAnking - Test case Passed
+2020-02-21 00:04:38,961 [main] INFO InetBAnking - Url Opened
+2020-02-21 00:04:41,616 [main] INFO InetBAnking - Username and password entered
+2020-02-21 00:04:43,379 [main] INFO InetBAnking - Form submitted
+2020-02-21 00:04:43,453 [main] INFO InetBAnking - Test case Passed
+2020-02-21 00:09:53,521 [main] INFO InetBAnking - Url Opened
+2020-02-21 00:09:53,933 [main] INFO InetBAnking - Username and password entered
+2020-02-21 00:10:11,269 [main] INFO InetBAnking - Form submitted
+2020-02-21 00:10:11,354 [main] INFO InetBAnking - Test case Passed
+2020-02-21 21:39:51,028 [main] INFO InetBAnking - Url Opened
+2020-02-21 21:39:52,526 [main] INFO InetBAnking - Username and password entered
+2020-02-21 21:39:58,129 [main] INFO InetBAnking - Form submitted
+2020-02-21 21:39:58,172 [main] INFO InetBAnking - Test case Passed
+2020-02-23 13:38:27,542 [main] INFO InetBAnking - Url Opened
+2020-02-23 13:38:28,291 [main] INFO InetBAnking - Username and password entered
+2020-02-23 13:38:33,830 [main] INFO InetBAnking - Form submitted
+2020-02-23 13:38:33,853 [main] INFO InetBAnking - Test case Passed
+2020-02-23 13:45:25,717 [main] INFO InetBAnking - Url Opened
+2020-02-23 13:45:27,829 [main] INFO InetBAnking - Username and password entered
+2020-02-23 13:45:28,684 [main] INFO InetBAnking - Form submitted
+2020-02-23 13:45:28,755 [main] INFO InetBAnking - Test case Passed
+2020-02-23 14:00:46,675 [main] INFO InetBAnking - Url Opened
+2020-02-23 14:00:47,750 [main] INFO InetBAnking - Username and password entered
+2020-02-23 14:00:49,259 [main] INFO InetBAnking - Form submitted
+2020-02-23 14:00:49,274 [main] INFO InetBAnking - Test case Passed
+2020-02-23 14:01:58,234 [main] INFO InetBAnking - Url Opened
+2020-02-23 14:02:00,088 [main] INFO InetBAnking - Username and password entered
+2020-02-23 14:02:00,943 [main] INFO InetBAnking - Form submitted
+2020-02-23 14:02:00,957 [main] INFO InetBAnking - Test case Passed
+2020-02-23 14:04:36,621 [main] INFO InetBAnking - Url Opened
+2020-02-23 14:04:38,095 [main] INFO InetBAnking - Username and password entered
+2020-02-23 14:04:38,880 [main] INFO InetBAnking - Form submitted
+2020-02-23 14:04:38,906 [main] INFO InetBAnking - Test case Passed
+2020-02-23 14:08:56,134 [main] INFO InetBAnking - Url Opened
+2020-02-23 14:08:57,699 [main] INFO InetBAnking - Username and password entered
+2020-02-23 14:08:58,525 [main] INFO InetBAnking - Form submitted
+2020-02-23 14:08:58,538 [main] INFO InetBAnking - Test case Passed
+2020-02-23 14:13:47,135 [main] INFO InetBAnking - Url Opened
+2020-02-23 14:13:48,799 [main] INFO InetBAnking - Username and password entered
+2020-02-23 14:13:49,837 [main] INFO InetBAnking - Form submitted
+2020-02-23 14:13:49,855 [main] INFO InetBAnking - Test case Passed
+2020-02-23 14:25:26,895 [main] INFO InetBAnking - Url Opened
+2020-02-23 14:25:28,659 [main] INFO InetBAnking - Username and password entered
+2020-02-23 14:25:30,281 [main] INFO InetBAnking - Form submitted
+2020-02-23 14:25:30,305 [main] INFO InetBAnking - Test case Passed
+2020-02-23 14:29:53,513 [main] INFO InetBAnking - Url Opened
+2020-02-23 14:29:54,321 [main] INFO InetBAnking - Username and password entered
+2020-02-23 14:29:55,695 [main] INFO InetBAnking - Form submitted
+2020-02-23 14:29:55,751 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:11:48,134 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:11:49,602 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:11:52,210 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:11:52,228 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:13:25,221 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:13:26,881 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:13:28,871 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:13:28,890 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:16:28,417 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:16:29,997 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:16:30,903 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:16:30,951 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:28:08,473 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:28:10,835 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:28:11,865 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:28:11,950 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:36:51,447 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:36:54,065 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:36:55,170 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:36:55,194 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:39:32,306 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:39:32,955 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:39:34,273 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:39:34,433 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:53:29,196 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:53:29,860 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:53:30,960 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:53:30,991 [main] INFO InetBAnking - Test case Passed
+2020-02-23 15:55:18,588 [main] INFO InetBAnking - Url Opened
+2020-02-23 15:55:19,542 [main] INFO InetBAnking - Username and password entered
+2020-02-23 15:55:20,568 [main] INFO InetBAnking - Form submitted
+2020-02-23 15:55:20,587 [main] INFO InetBAnking - Test case Passed
+2020-02-23 16:06:39,105 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:06:41,218 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:06:42,247 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:06:42,311 [main] INFO InetBAnking - Test case Passed
+2020-02-23 16:08:46,898 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:08:48,655 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:08:49,473 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:08:49,522 [main] INFO InetBAnking - Test case Passed
+2020-02-23 16:10:40,409 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:10:42,312 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:10:42,780 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:16:10,362 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:16:11,408 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:16:12,119 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:21:17,103 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:21:19,322 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:21:19,914 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:46:53,134 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:46:55,681 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:46:56,211 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:49:20,068 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:49:22,137 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:49:23,498 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:49:23,548 [main] INFO InetBAnking - Test case Failed
+2020-02-23 16:54:45,321 [main] INFO InetBAnking - Url Opened
+2020-02-23 16:54:47,724 [main] INFO InetBAnking - Username and password entered
+2020-02-23 16:54:58,023 [main] INFO InetBAnking - Form submitted
+2020-02-23 16:54:58,044 [main] INFO InetBAnking - Test case Failed
+2020-02-25 01:48:26,074 [main] INFO InetBAnking - Url Opened
+2020-02-25 01:51:48,037 [main] INFO InetBAnking - Url Opened
+2020-02-25 01:54:51,997 [main] INFO InetBAnking - Url Opened
+2020-02-25 21:43:32,039 [main] INFO InetBAnking - Url Opened
+2020-02-25 21:43:38,046 [main] INFO InetBAnking - Username entered
+2020-02-25 21:43:38,338 [main] INFO InetBAnking - Password entered
+2020-02-25 21:43:41,875 [main] INFO InetBAnking - Credential entered
+2020-02-25 21:46:06,500 [main] INFO InetBAnking - Url Opened
+2020-02-25 21:46:10,263 [main] INFO InetBAnking - Username entered
+2020-02-25 21:46:10,806 [main] INFO InetBAnking - Password entered
+2020-02-25 21:46:11,644 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:09:12,580 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:09:15,728 [main] INFO InetBAnking - Username entered
+2020-02-25 22:09:16,022 [main] INFO InetBAnking - Password entered
+2020-02-25 22:09:23,897 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:14:32,440 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:14:35,097 [main] INFO InetBAnking - Username entered
+2020-02-25 22:14:35,387 [main] INFO InetBAnking - Password entered
+2020-02-25 22:14:36,439 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:20:41,274 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:20:44,733 [main] INFO InetBAnking - Username entered
+2020-02-25 22:20:45,173 [main] INFO InetBAnking - Password entered
+2020-02-25 22:20:50,366 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:20:50,408 [main] INFO InetBAnking - Login successful
+2020-02-25 22:30:53,925 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:30:55,910 [main] INFO InetBAnking - Username entered
+2020-02-25 22:30:56,112 [main] INFO InetBAnking - Password entered
+2020-02-25 22:31:01,619 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:31:01,663 [main] INFO InetBAnking - Login successful
+2020-02-25 22:32:44,515 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:32:46,990 [main] INFO InetBAnking - Username entered
+2020-02-25 22:32:47,293 [main] INFO InetBAnking - Password entered
+2020-02-25 22:32:54,333 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:32:54,398 [main] INFO InetBAnking - Login successful
+2020-02-25 22:39:41,106 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:39:43,417 [main] INFO InetBAnking - Username entered
+2020-02-25 22:39:43,709 [main] INFO InetBAnking - Password entered
+2020-02-25 22:40:01,685 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:40:01,722 [main] INFO InetBAnking - Login successful
+2020-02-25 22:42:47,487 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:42:50,899 [main] INFO InetBAnking - Username entered
+2020-02-25 22:42:51,335 [main] INFO InetBAnking - Password entered
+2020-02-25 22:42:57,226 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:42:57,272 [main] INFO InetBAnking - Login successful
+2020-02-25 22:47:06,340 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:47:10,297 [main] INFO InetBAnking - Username entered
+2020-02-25 22:47:10,694 [main] INFO InetBAnking - Password entered
+2020-02-25 22:47:28,747 [main] INFO InetBAnking - Credential entered
+2020-02-25 22:47:28,810 [main] INFO InetBAnking - Login successful
+2020-02-25 22:50:41,691 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:50:43,106 [main] INFO InetBAnking - Username and password entered
+2020-02-25 22:50:47,418 [main] INFO InetBAnking - Form submitted
+2020-02-25 22:50:47,444 [main] INFO InetBAnking - Test case Passed
+2020-02-25 22:57:03,318 [main] INFO InetBAnking - Url Opened
+2020-02-25 22:57:03,859 [main] INFO InetBAnking - Username and password entered
+2020-02-25 22:57:15,025 [main] INFO InetBAnking - Form submitted
+2020-02-25 22:57:15,068 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:10:43,133 [main] INFO InetBAnking - Url Opened
+2020-02-25 23:10:43,893 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:10:51,203 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:10:51,713 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:12:39,052 [main] INFO InetBAnking - Url Opened
+2020-02-25 23:12:42,053 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:12:44,472 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:12:44,497 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:17:04,569 [main] INFO InetBAnking - Url Opened
+2020-02-25 23:17:07,660 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:17:17,671 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:17:17,690 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:21:31,576 [main] INFO InetBAnking - Url Opened
+2020-02-25 23:21:32,776 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:21:35,537 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:21:35,562 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:30:30,829 [main] INFO InetBAnking - Url Opened
+2020-02-25 23:30:37,559 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:30:40,462 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:30:40,479 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:31:19,578 [main] INFO InetBAnking - Url Opened
+2020-02-25 23:31:25,174 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:31:26,389 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:31:26,477 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:34:55,110 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:35:30,776 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:35:30,809 [main] INFO InetBAnking - Test case Failed
+2020-02-25 23:40:20,255 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:40:24,169 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:40:24,192 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:45:45,118 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:45:52,433 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:45:52,480 [main] INFO InetBAnking - Test case Passed
+2020-02-25 23:50:39,240 [main] INFO InetBAnking - Username and password entered
+2020-02-25 23:50:41,108 [main] INFO InetBAnking - Form submitted
+2020-02-25 23:50:41,128 [main] INFO InetBAnking - Test case Passed
+2020-02-26 00:36:18,281 [main] INFO InetBAnking - Username and password entered
+2020-02-26 00:36:31,977 [main] INFO InetBAnking - Form submitted
+2020-02-26 00:36:32,011 [main] INFO InetBAnking - Test case Passed
+2020-02-26 00:43:14,512 [main] INFO InetBAnking - Username and password entered
+2020-02-26 00:43:49,940 [main] INFO InetBAnking - Form submitted
+2020-02-26 00:43:49,999 [main] INFO InetBAnking - Test case Passed
+2020-02-26 01:20:56,271 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:21:00,224 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:21:00,395 [main] INFO InetBAnking - Test case Passed
+2020-02-26 01:26:07,075 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:26:12,940 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:26:13,026 [main] INFO InetBAnking - Test case Failed
+2020-02-26 01:28:39,219 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:28:47,102 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:28:47,228 [main] INFO InetBAnking - Test case Passed
+2020-02-26 01:30:28,187 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:30:35,883 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:30:36,150 [main] INFO InetBAnking - Test case Passed
+2020-02-26 01:46:59,866 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:47:11,085 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:47:11,261 [main] INFO InetBAnking - Test case Passed
+2020-02-26 01:52:08,504 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:52:32,728 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:52:32,830 [main] INFO InetBAnking - Test case Passed
+2020-02-26 01:54:23,855 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:54:29,980 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:54:30,088 [main] INFO InetBAnking - Test case Passed
+2020-02-26 01:56:18,159 [main] INFO InetBAnking - Username and password entered
+2020-02-26 01:56:19,223 [main] INFO InetBAnking - Form submitted
+2020-02-26 01:56:19,458 [main] INFO InetBAnking - Test case Passed
+2020-02-26 02:04:09,791 [main] INFO InetBAnking - Username and password entered
+2020-02-26 02:04:10,545 [main] INFO InetBAnking - Form submitted
+2020-02-26 02:04:11,168 [main] INFO InetBAnking - Test case Passed
+2020-02-26 02:06:15,375 [main] INFO InetBAnking - Username and password entered
+2020-02-26 02:06:21,844 [main] INFO InetBAnking - Form submitted
+2020-02-26 02:06:21,889 [main] INFO InetBAnking - Test case Passed
+2020-02-26 02:08:05,330 [main] INFO InetBAnking - Username and password entered
+2020-02-26 02:08:06,909 [main] INFO InetBAnking - Form submitted
+2020-02-26 02:08:06,980 [main] INFO InetBAnking - Test case Passed
+2020-02-26 02:09:31,460 [main] INFO InetBAnking - Username and password entered
+2020-02-26 02:09:33,927 [main] INFO InetBAnking - Form submitted
+2020-02-26 02:09:33,980 [main] INFO InetBAnking - Test case Passed
+2020-02-26 02:10:43,939 [main] INFO InetBAnking - Username and password entered
+2020-02-26 02:10:44,777 [main] INFO InetBAnking - Form submitted
+2020-02-26 02:10:45,171 [main] INFO InetBAnking - Test case Passed
+2020-02-26 02:13:35,816 [main] INFO InetBAnking - Username and password entered
+2020-02-26 02:13:43,284 [main] INFO InetBAnking - Form submitted
+2020-02-26 02:13:43,444 [main] INFO InetBAnking - Test case Passed
+2020-02-26 02:17:52,153 [main] INFO InetBAnking - Username and password entered
+2020-02-26 02:18:20,568 [main] INFO InetBAnking - Form submitted
+2020-02-26 02:18:20,734 [main] INFO InetBAnking - Test case Passed
+2020-02-26 22:27:30,534 [main] INFO InetBAnking - Username and password entered
+2020-02-26 22:27:31,308 [main] INFO InetBAnking - Form submitted
+2020-02-26 22:27:31,609 [main] INFO InetBAnking - Test case Passed
+2020-02-26 22:31:26,921 [main] INFO InetBAnking - Username and password entered
+2020-02-26 22:31:29,584 [main] INFO InetBAnking - Form submitted
+2020-02-26 22:31:29,613 [main] INFO InetBAnking - Test case Passed
+2020-02-26 22:34:22,340 [main] INFO InetBAnking - Username and password entered
+2020-02-26 22:34:24,475 [main] INFO InetBAnking - Form submitted
+2020-02-26 22:34:24,521 [main] INFO InetBAnking - Test case Passed
+2020-02-26 22:37:44,782 [main] INFO InetBAnking - Username and password entered
+2020-02-26 22:37:47,301 [main] INFO InetBAnking - Form submitted
+2020-02-26 22:37:47,324 [main] INFO InetBAnking - Test case Passed
+2020-02-26 22:47:21,373 [main] INFO InetBAnking - Username and password entered
+2020-02-26 22:47:24,068 [main] INFO InetBAnking - Form submitted
+2020-02-26 22:47:24,183 [main] INFO InetBAnking - Test case Passed
+2020-02-26 22:48:40,339 [main] INFO InetBAnking - Username and password entered
+2020-02-26 22:48:42,332 [main] INFO InetBAnking - Form submitted
+2020-02-26 22:48:42,430 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:01:58,039 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:02:18,003 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:02:18,142 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:06:04,204 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:06:23,796 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:06:24,312 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:18:23,025 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:18:27,583 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:18:27,655 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:32:48,469 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:32:58,228 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:33:07,819 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:33:21,700 [main] INFO InetBAnking - log out complete
+2020-02-26 23:34:16,217 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:34:18,834 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:34:20,131 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:34:21,186 [main] INFO InetBAnking - log out complete
+2020-02-26 23:35:39,116 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:35:43,282 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:35:43,330 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:36:47,675 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:36:49,321 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:36:49,413 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:38:50,883 [main] INFO InetBAnking - Username and password entered
+2020-02-26 23:38:55,463 [main] INFO InetBAnking - Form submitted
+2020-02-26 23:38:55,504 [main] INFO InetBAnking - Test case Passed
+2020-02-26 23:42:18,340 [main] INFO InetBAnking - Username entered
+2020-02-26 23:42:18,539 [main] INFO InetBAnking - Password entered
+2020-02-26 23:42:25,283 [main] INFO InetBAnking - Credential entered
+2020-02-26 23:42:25,418 [main] INFO InetBAnking - Login successful
+2020-02-26 23:48:03,204 [main] INFO InetBAnking - Username entered
+2020-02-26 23:48:03,588 [main] INFO InetBAnking - Password entered
+2020-02-26 23:48:10,048 [main] INFO InetBAnking - Credential entered
+2020-02-26 23:48:10,167 [main] INFO InetBAnking - Login successful
+2020-02-26 23:54:15,926 [main] INFO InetBAnking - Username entered
+2020-02-26 23:54:16,300 [main] INFO InetBAnking - Password entered
+2020-02-26 23:54:20,710 [main] INFO InetBAnking - Credential entered
+2020-02-26 23:54:21,561 [main] INFO InetBAnking - Login successful
+2020-02-27 00:04:49,995 [main] INFO InetBAnking - Username entered
+2020-02-27 00:04:50,313 [main] INFO InetBAnking - Password entered
+2020-02-27 00:05:00,746 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:05:00,833 [main] INFO InetBAnking - Login successful
+2020-02-27 00:07:31,782 [main] INFO InetBAnking - Username entered
+2020-02-27 00:07:32,187 [main] INFO InetBAnking - Password entered
+2020-02-27 00:07:36,719 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:07:36,786 [main] INFO InetBAnking - Login successful
+2020-02-27 00:13:35,099 [main] INFO InetBAnking - Username entered
+2020-02-27 00:13:35,413 [main] INFO InetBAnking - Password entered
+2020-02-27 00:13:40,820 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:13:40,894 [main] INFO InetBAnking - Login successful
+2020-02-27 00:15:18,566 [main] INFO InetBAnking - Username entered
+2020-02-27 00:15:19,080 [main] INFO InetBAnking - Password entered
+2020-02-27 00:15:30,907 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:15:31,196 [main] INFO InetBAnking - Login successful
+2020-02-27 00:19:26,555 [main] INFO InetBAnking - Username entered
+2020-02-27 00:19:26,893 [main] INFO InetBAnking - Password entered
+2020-02-27 00:19:32,175 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:19:32,976 [main] INFO InetBAnking - Login successful
+2020-02-27 00:36:35,378 [main] INFO InetBAnking - Username entered
+2020-02-27 00:36:35,855 [main] INFO InetBAnking - Password entered
+2020-02-27 00:36:40,055 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:36:40,084 [main] INFO InetBAnking - Login successful
+2020-02-27 00:38:43,321 [main] INFO InetBAnking - Username entered
+2020-02-27 00:38:43,550 [main] INFO InetBAnking - Password entered
+2020-02-27 00:38:47,536 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:38:47,572 [main] INFO InetBAnking - Login successful
+2020-02-27 00:43:52,077 [main] INFO InetBAnking - Username entered
+2020-02-27 00:43:53,431 [main] INFO InetBAnking - Password entered
+2020-02-27 00:43:55,278 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:43:55,367 [main] INFO InetBAnking - Login successful
+2020-02-27 00:57:55,741 [main] INFO InetBAnking - Username entered
+2020-02-27 00:57:56,755 [main] INFO InetBAnking - Password entered
+2020-02-27 00:58:00,510 [main] INFO InetBAnking - Credential entered
+2020-02-27 00:58:00,552 [main] INFO InetBAnking - Login successful
+2020-02-27 01:03:03,346 [main] INFO InetBAnking - Username entered
+2020-02-27 01:03:04,280 [main] INFO InetBAnking - Password entered
+2020-02-27 01:03:28,513 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:03:28,585 [main] INFO InetBAnking - Login successful
+2020-02-27 01:03:28,775 [main] INFO InetBAnking - logout done
+2020-02-27 01:09:37,043 [main] INFO InetBAnking - Username entered
+2020-02-27 01:09:37,345 [main] INFO InetBAnking - Password entered
+2020-02-27 01:09:38,659 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:09:38,745 [main] INFO InetBAnking - Login successful
+2020-02-27 01:09:39,061 [main] INFO InetBAnking - logout done
+2020-02-27 01:12:48,362 [main] INFO InetBAnking - Username entered
+2020-02-27 01:12:49,355 [main] INFO InetBAnking - Password entered
+2020-02-27 01:12:52,978 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:12:53,106 [main] INFO InetBAnking - Login successful
+2020-02-27 01:12:53,639 [main] INFO InetBAnking - logout done
+2020-02-27 01:16:41,617 [main] INFO InetBAnking - Username entered
+2020-02-27 01:16:42,255 [main] INFO InetBAnking - Password entered
+2020-02-27 01:16:53,742 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:16:53,817 [main] INFO InetBAnking - Login successful
+2020-02-27 01:16:54,886 [main] INFO InetBAnking - logout done
+2020-02-27 01:19:25,365 [main] INFO InetBAnking - Username entered
+2020-02-27 01:19:25,815 [main] INFO InetBAnking - Password entered
+2020-02-27 01:19:36,878 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:19:36,923 [main] INFO InetBAnking - Login successful
+2020-02-27 01:19:37,327 [main] INFO InetBAnking - logout done
+2020-02-27 01:24:01,580 [main] INFO InetBAnking - Username entered
+2020-02-27 01:24:01,858 [main] INFO InetBAnking - Password entered
+2020-02-27 01:24:03,086 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:24:03,125 [main] INFO InetBAnking - Login successful
+2020-02-27 01:24:04,118 [main] INFO InetBAnking - logout done
+2020-02-27 01:25:12,744 [main] INFO InetBAnking - Username entered
+2020-02-27 01:25:30,149 [main] INFO InetBAnking - Password entered
+2020-02-27 01:25:32,118 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:25:32,520 [main] INFO InetBAnking - alert present
+2020-02-27 01:25:36,931 [main] INFO InetBAnking - Username entered
+2020-02-27 01:25:37,502 [main] INFO InetBAnking - Password entered
+2020-02-27 01:25:38,603 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:25:38,638 [main] INFO InetBAnking - Login successful
+2020-02-27 01:25:39,204 [main] INFO InetBAnking - logout done
+2020-02-27 01:40:50,466 [main] INFO InetBAnking - Username entered
+2020-02-27 01:40:53,070 [main] INFO InetBAnking - Password entered
+2020-02-27 01:40:59,274 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:40:59,308 [main] INFO InetBAnking - Login successful
+2020-02-27 01:41:00,149 [main] INFO InetBAnking - logout done
+2020-02-27 01:44:33,491 [main] INFO InetBAnking - Username entered
+2020-02-27 01:44:38,270 [main] INFO InetBAnking - Password entered
+2020-02-27 01:44:40,840 [main] INFO InetBAnking - Credential entered
+2020-02-27 01:44:40,922 [main] INFO InetBAnking - Login successful
+2020-02-27 01:44:41,162 [main] INFO InetBAnking - logout done
+2020-02-27 21:57:20,546 [main] INFO InetBAnking - Username entered
+2020-02-27 21:57:21,264 [main] INFO InetBAnking - Password entered
+2020-02-27 21:57:23,870 [main] INFO InetBAnking - Credential entered
+2020-02-27 21:57:23,940 [main] INFO InetBAnking - Login successful
+2020-02-27 21:57:24,540 [main] INFO InetBAnking - logout done
+2020-02-27 22:01:16,788 [main] INFO InetBAnking - Username entered
+2020-02-27 22:01:17,558 [main] INFO InetBAnking - Password entered
+2020-02-27 22:01:17,559 [main] INFO InetBAnking - mngr2468341 YhUtEbA
+2020-02-27 22:01:18,972 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:08:59,653 [main] INFO InetBAnking - Username entered
+2020-02-27 22:09:00,294 [main] INFO InetBAnking - Password entered
+2020-02-27 22:09:00,297 [main] INFO InetBAnking - mngr2468341 YhUtEbA
+2020-02-27 22:09:02,939 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:13:41,886 [main] INFO InetBAnking - Username entered
+2020-02-27 22:13:42,351 [main] INFO InetBAnking - Password entered
+2020-02-27 22:13:42,352 [main] INFO InetBAnking - mngr2468341 YhUtEbA
+2020-02-27 22:13:44,263 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:17:29,893 [main] INFO InetBAnking - Username entered
+2020-02-27 22:17:30,274 [main] INFO InetBAnking - Password entered
+2020-02-27 22:17:30,276 [main] INFO InetBAnking - mngr2468341 YhUtEbA
+2020-02-27 22:17:37,655 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:26:10,588 [main] INFO InetBAnking - Username entered
+2020-02-27 22:26:11,104 [main] INFO InetBAnking - Password entered
+2020-02-27 22:26:11,105 [main] INFO InetBAnking - mngr246834 YhUtEbA
+2020-02-27 22:26:29,580 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:31:49,893 [main] INFO InetBAnking - Username entered
+2020-02-27 22:31:50,229 [main] INFO InetBAnking - Password entered
+2020-02-27 22:31:50,230 [main] INFO InetBAnking - mngr246834 YhUtEbA
+2020-02-27 22:31:55,663 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:33:18,233 [main] INFO InetBAnking - Username entered
+2020-02-27 22:33:18,433 [main] INFO InetBAnking - Password entered
+2020-02-27 22:33:18,434 [main] INFO InetBAnking - mngr246834 YhUtEbA
+2020-02-27 22:33:24,693 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:44:31,334 [main] INFO InetBAnking - Username entered
+2020-02-27 22:44:31,721 [main] INFO InetBAnking - Password entered
+2020-02-27 22:44:31,723 [main] INFO InetBAnking - mngr246834 YhUtEbA
+2020-02-27 22:44:46,505 [main] INFO InetBAnking - Credential entered
+2020-02-27 22:51:53,714 [main] INFO InetBAnking - Username entered
+2020-02-27 22:51:53,947 [main] INFO InetBAnking - Password entered
+2020-02-27 22:51:53,948 [main] INFO InetBAnking - mngr246834 YhUtEbA
+2020-02-27 22:52:03,477 [main] INFO InetBAnking - Credential entered
+2020-02-27 23:03:25,273 [main] INFO InetBAnking - Username entered
+2020-02-27 23:03:25,597 [main] INFO InetBAnking - Password entered
+2020-02-27 23:03:25,599 [main] INFO InetBAnking - mngr246834 YhUtEbA
+2020-02-27 23:04:13,830 [main] INFO InetBAnking - Credential entered
+2020-02-28 02:06:23,360 [main] INFO InetBAnking - No alert present
+2020-02-29 12:54:30,192 [main] INFO InetBAnking - No alert present
+2020-02-29 13:19:53,222 [main] INFO InetBAnking - Username and password entered
+2020-02-29 13:19:56,692 [main] INFO InetBAnking - Form submitted
+2020-02-29 13:19:56,860 [main] INFO InetBAnking - Test case Passed
+2020-02-29 13:26:20,178 [main] INFO InetBAnking - No alert present
+2020-02-29 13:29:14,590 [main] INFO InetBAnking - No alert present
+2020-02-29 13:52:42,044 [main] INFO InetBAnking - No alert present
+2020-03-01 13:14:53,848 [main] INFO InetBAnking - No alert present
+2020-03-01 13:17:02,418 [main] INFO InetBAnking - No alert present
+2020-03-01 13:21:36,780 [main] INFO InetBAnking - No alert present
+2020-03-01 14:09:48,734 [main] INFO InetBAnking - No alert present
+2020-03-01 15:30:03,269 [main] INFO InetBAnking - No alert present
+2020-03-01 15:39:50,774 [main] INFO InetBAnking - No alert present
+2020-03-01 15:43:32,247 [main] INFO InetBAnking - No alert present
+2020-03-01 23:17:07,376 [main] INFO InetBAnking - No alert present
